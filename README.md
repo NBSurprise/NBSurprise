@@ -1,6 +1,4 @@
-Hello there, I'm Not Big Surprise
-
-I don't have much to say about myself, I'm just making a Minecraft mod
+hello there, i'm nbsurprise
 
 <!---
 NBSurprise/NBSurprise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
